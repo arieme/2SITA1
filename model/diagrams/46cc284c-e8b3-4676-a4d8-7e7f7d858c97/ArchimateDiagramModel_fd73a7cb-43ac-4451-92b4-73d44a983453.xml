@@ -131,8 +131,8 @@
       id="d4dfd548-b921-49b8-ad58-aaeb30c61687"
       targetConnections="656429f6-c18d-4ced-b6e8-ded04af31f13">
     <bounds
-        x="388"
-        y="305"
+        x="384"
+        y="289"
         width="108"
         height="56"/>
     <archimateElement
@@ -145,9 +145,9 @@
       targetConnections="8960d5f2-b187-4471-802f-f77c6260dcf8">
     <bounds
         x="508"
-        y="305"
+        y="289"
         width="109"
-        height="40"/>
+        height="56"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_25d98289-34d0-4fb0-a216-ef53e55b6574.xml#25d98289-34d0-4fb0-a216-ef53e55b6574"/>
