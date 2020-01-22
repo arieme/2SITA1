@@ -849,7 +849,8 @@
               href="CompositionRelationship_f1f3911e-5e44-43fc-8330-ec774bd21b3e.xml#f1f3911e-5e44-43fc-8330-ec774bd21b3e"/>
         </sourceConnections>
         <bounds
-            y="36"
+            x="12"
+            y="72"
             width="120"
             height="42"/>
         <archimateElement
