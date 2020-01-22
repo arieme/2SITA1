@@ -166,7 +166,7 @@
         x="636"
         y="485"
         width="133"
-        height="85"/>
+        height="56"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_d50d5a5d-94c2-49fa-97a8-9cd6136bf6fc.xml#d50d5a5d-94c2-49fa-97a8-9cd6136bf6fc"/>
@@ -179,7 +179,7 @@
         x="1020"
         y="485"
         width="133"
-        height="85"/>
+        height="56"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_42d6d55a-0043-471e-add6-a6ca889d708b.xml#42d6d55a-0043-471e-add6-a6ca889d708b"/>
