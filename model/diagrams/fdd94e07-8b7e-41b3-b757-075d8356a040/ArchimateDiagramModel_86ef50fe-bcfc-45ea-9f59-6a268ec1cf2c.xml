@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="creation contrat capital déces"
+    id="86ef50fe-bcfc-45ea-9f59-6a268ec1cf2c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9df87688-d7b6-4636-8142-78cd481ae4b8">
+    <bounds
+        x="431"
+        y="200"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_d235ed15-7f14-4656-a9a0-405859aa9cd6.xml#d235ed15-7f14-4656-a9a0-405859aa9cd6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c0d22855-ad60-4f8b-b393-0a25ea3962c5">
+    <bounds
+        x="732"
+        y="154"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_137500eb-cafc-476a-ad7a-08b45e34f5cd.xml#137500eb-cafc-476a-ad7a-08b45e34f5cd"/>
+  </children>
+</archimate:ArchimateDiagramModel>
