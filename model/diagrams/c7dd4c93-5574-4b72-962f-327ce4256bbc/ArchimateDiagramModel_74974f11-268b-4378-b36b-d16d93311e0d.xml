@@ -52,7 +52,7 @@
     <bounds
         x="132"
         y="312"
-        width="589"
+        width="745"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -148,13 +148,34 @@
             href="AccessRelationship_56c039d5-e7d1-4a1f-a8c9-fe29e00fcfb8.xml#56c039d5-e7d1-4a1f-a8c9-fe29e00fcfb8"/>
       </sourceConnections>
       <bounds
-          x="444"
+          x="600"
           y="36"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_f07c710a-1bcb-4774-93d1-9999bbe45ccf.xml#f07c710a-1bcb-4774-93d1-9999bbe45ccf"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="af2ac659-b3a4-4bee-ad79-bb68827973d8">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="df65b30c-adcb-4e3c-a71f-84fcbc748870"
+          source="af2ac659-b3a4-4bee-ad79-bb68827973d8"
+          target="43175962-efe2-4f9f-b0c0-f4eb391b9ee4">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_99acd63e-61aa-45f5-a2e0-fc6b8998c98d.xml#99acd63e-61aa-45f5-a2e0-fc6b8998c98d"/>
+      </sourceConnections>
+      <bounds
+          x="444"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_956144f3-3e07-4c3b-b97e-20849a3ee557.xml#956144f3-3e07-4c3b-b97e-20849a3ee557"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -187,7 +208,7 @@
       id="631f9614-1c51-48c2-a075-44d349e323e5"
       targetConnections="e8eea97a-804e-4831-9f98-bec460af61e8">
     <bounds
-        x="828"
+        x="924"
         y="351"
         width="120"
         height="55"/>
@@ -250,7 +271,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="43175962-efe2-4f9f-b0c0-f4eb391b9ee4"
-      targetConnections="1386470b-67de-41d4-a2dd-036c9a01ae0d 24969c4c-f2de-42f5-882b-930993352fc6">
+      targetConnections="1386470b-67de-41d4-a2dd-036c9a01ae0d 24969c4c-f2de-42f5-882b-930993352fc6 df65b30c-adcb-4e3c-a71f-84fcbc748870">
     <bounds
         x="648"
         y="516"

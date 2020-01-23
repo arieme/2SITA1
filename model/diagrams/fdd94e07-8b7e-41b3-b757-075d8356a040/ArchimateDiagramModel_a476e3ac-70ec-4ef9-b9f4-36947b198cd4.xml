@@ -17,8 +17,8 @@
           href="AssignmentRelationship_1ec016cc-5b10-476d-b420-90028fba5de4.xml#1ec016cc-5b10-476d-b420-90028fba5de4"/>
     </sourceConnections>
     <bounds
-        x="84"
-        y="72"
+        x="240"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement
@@ -57,8 +57,8 @@
           href="TriggeringRelationship_b87b79e4-2581-4e6b-9960-558b1dfeb5aa.xml#b87b79e4-2581-4e6b-9960-558b1dfeb5aa"/>
     </sourceConnections>
     <bounds
-        x="84"
-        y="190"
+        x="240"
+        y="382"
         width="120"
         height="55"/>
     <archimateElement
@@ -70,8 +70,8 @@
       id="bec5b24c-7572-4435-9e8e-79cc544362ec"
       targetConnections="d02d611b-2c2b-49e2-8a88-61e4fd0e3e24">
     <bounds
-        x="24"
-        y="312"
+        x="180"
+        y="504"
         width="120"
         height="55"/>
     <archimateElement
@@ -83,8 +83,8 @@
       id="3d7c2576-14e9-4b36-b296-46886259969c"
       targetConnections="574421ed-a3e8-4aa4-b3c4-0e158f4bcab6">
     <bounds
-        x="180"
-        y="312"
+        x="336"
+        y="504"
         width="120"
         height="55"/>
     <archimateElement
@@ -105,8 +105,8 @@
           href="RealizationRelationship_8f393ed4-1a56-477a-a47e-01b5dd20bbf5.xml#8f393ed4-1a56-477a-a47e-01b5dd20bbf5"/>
     </sourceConnections>
     <bounds
-        x="348"
-        y="168"
+        x="504"
+        y="360"
         width="312"
         height="108"/>
     <children
@@ -136,10 +136,10 @@
             href="AccessRelationship_da2d4c22-d3ac-4cac-95b0-8933a9eb8f9d.xml#da2d4c22-d3ac-4cac-95b0-8933a9eb8f9d"/>
       </sourceConnections>
       <bounds
-          x="180"
+          x="168"
           y="24"
-          width="120"
-          height="55"/>
+          width="133"
+          height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_746a161f-8a07-42f0-9f5c-c75655b13ade.xml#746a161f-8a07-42f0-9f5c-c75655b13ade"/>
@@ -170,8 +170,8 @@
           href="AssignmentRelationship_e7d19947-1c12-45b6-8a5d-7850d564b356.xml#e7d19947-1c12-45b6-8a5d-7850d564b356"/>
     </sourceConnections>
     <bounds
-        x="432"
-        y="12"
+        x="588"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
@@ -183,8 +183,8 @@
       id="f8b3517c-2e3f-458b-ac1f-2c394db7a8c5"
       targetConnections="4d71239f-ad4a-4185-b4b7-2a7469bdebd4">
     <bounds
-        x="528"
-        y="312"
+        x="684"
+        y="504"
         width="120"
         height="55"/>
     <archimateElement
@@ -197,8 +197,8 @@
       targetConnections="662009fe-bb0a-4bd1-830c-2752b8b28ed9 4c55b0ca-401b-4bd0-8f85-5b6267cb5adf"
       type="1">
     <bounds
-        x="708"
-        y="194"
+        x="864"
+        y="386"
         width="120"
         height="55"/>
     <archimateElement
@@ -227,8 +227,8 @@
           href="ServingRelationship_316620c6-2b8e-42b0-a49c-eb5c87764ea6.xml#316620c6-2b8e-42b0-a49c-eb5c87764ea6"/>
     </sourceConnections>
     <bounds
-        x="708"
-        y="72"
+        x="864"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement
