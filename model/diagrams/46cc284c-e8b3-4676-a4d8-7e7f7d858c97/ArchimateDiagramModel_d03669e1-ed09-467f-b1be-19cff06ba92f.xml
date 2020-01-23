@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="App_Contrats"
+    id="d03669e1-ed09-467f-b1be-19cff06ba92f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3f26cf3e-360c-4663-80a1-10a8b3652fa8">
+    <bounds
+        x="588"
+        y="372"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_8d2b6271-1f29-498e-9bde-842d097b0ae0.xml#8d2b6271-1f29-498e-9bde-842d097b0ae0"/>
+  </children>
+</archimate:ArchimateDiagramModel>
