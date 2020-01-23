@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="techview"
+    name="infrastructure"
     id="023e97f0-f7fd-4dee-b553-7f9e7a5da04c"
     viewpoint="technology">
   <children
@@ -702,7 +702,7 @@
       id="0ef07694-648d-44e7-935a-83fde4abfeca"
       targetConnections="91d31c1f-c758-4718-9ffa-6aa6528c96ab">
     <bounds
-        x="-120"
+        x="-107"
         y="36"
         width="120"
         height="55"/>
