@@ -71,9 +71,9 @@
           href="TriggeringRelationship_17cc08f7-9b7c-4054-8bba-0460a4b9bc82.xml#17cc08f7-9b7c-4054-8bba-0460a4b9bc82"/>
     </sourceConnections>
     <bounds
-        x="207"
+        x="168"
         y="617"
-        width="120"
+        width="158"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
@@ -128,8 +128,8 @@
       id="cea6d85d-8984-45fb-99d7-3004840711f4"
       targetConnections="df662ae2-9adf-49f2-8b49-6382037d789e">
     <bounds
-        x="213"
-        y="845"
+        x="212"
+        y="839"
         width="108"
         height="67"/>
     <archimateElement
@@ -200,8 +200,8 @@
     <bounds
         x="183"
         y="461"
-        width="120"
-        height="55"/>
+        width="166"
+        height="69"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_e7b2b6ed-b252-4bbc-9030-da964991f5b9.xml#e7b2b6ed-b252-4bbc-9030-da964991f5b9"/>
