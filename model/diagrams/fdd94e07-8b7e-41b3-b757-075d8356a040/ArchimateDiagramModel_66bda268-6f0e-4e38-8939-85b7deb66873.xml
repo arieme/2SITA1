@@ -6,7 +6,8 @@
     connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="87681f14-07b4-4a89-82fc-7f19f6e42e44">
+      id="87681f14-07b4-4a89-82fc-7f19f6e42e44"
+      targetConnections="500287c1-1e35-4b90-bd76-9ef810438361">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="902b93ba-d179-476e-a94c-c61528a709e5"
@@ -26,7 +27,7 @@
           href="TriggeringRelationship_8e59545f-c23a-47b4-b7fb-66bb20c0c7f7.xml#8e59545f-c23a-47b4-b7fb-66bb20c0c7f7"/>
     </sourceConnections>
     <bounds
-        x="138"
+        x="180"
         y="360"
         width="133"
         height="55"/>
@@ -51,8 +52,17 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="63b3c69d-fb5d-40ac-8dc7-46426709c7fd"
       targetConnections="80541336-cf36-4666-8fb5-8002f99a5429">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="500287c1-1e35-4b90-bd76-9ef810438361"
+        source="63b3c69d-fb5d-40ac-8dc7-46426709c7fd"
+        target="87681f14-07b4-4a89-82fc-7f19f6e42e44">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_fc40b1d0-39d9-4029-ad56-2c80242a3878.xml#fc40b1d0-39d9-4029-ad56-2c80242a3878"/>
+    </sourceConnections>
     <bounds
-        x="768"
+        x="228"
         y="96"
         width="109"
         height="49"/>
@@ -65,8 +75,8 @@
       id="a28054a3-6c0a-473d-951d-ee2b776f6122"
       targetConnections="1122b188-47b3-4b09-a477-94643484281f">
     <bounds
-        x="372"
-        y="498"
+        x="360"
+        y="612"
         width="121"
         height="73"/>
     <archimateElement
@@ -122,7 +132,7 @@
       targetConnections="aba50b1a-4f3c-41c5-9d32-e629bc054a15">
     <bounds
         x="780"
-        y="516"
+        y="600"
         width="121"
         height="61"/>
     <archimateElement
@@ -152,7 +162,7 @@
     </sourceConnections>
     <bounds
         x="372"
-        y="60"
+        y="180"
         width="337"
         height="169"/>
     <children
@@ -241,7 +251,7 @@
     </sourceConnections>
     <bounds
         x="324"
-        y="276"
+        y="384"
         width="613"
         height="181"/>
     <children
