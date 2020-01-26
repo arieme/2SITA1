@@ -126,10 +126,10 @@
           href="RealizationRelationship_2bb577f1-d7e7-4719-85b8-102b5c1151b0.xml#2bb577f1-d7e7-4719-85b8-102b5c1151b0"/>
     </sourceConnections>
     <bounds
-        x="348"
+        x="372"
         y="211"
-        width="337"
-        height="90"/>
+        width="241"
+        height="78"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_dd4272b0-9ae4-4abd-ba23-2dbe8e1e761d.xml#dd4272b0-9ae4-4abd-ba23-2dbe8e1e761d"/>
