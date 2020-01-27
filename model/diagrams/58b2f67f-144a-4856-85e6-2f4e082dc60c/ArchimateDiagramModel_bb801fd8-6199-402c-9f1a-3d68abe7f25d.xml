@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="primes_target_app"
-    id="bb801fd8-6199-402c-9f1a-3d68abe7f25d">
+    id="bb801fd8-6199-402c-9f1a-3d68abe7f25d"
+    connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a01518f1-acf6-4fda-a1b7-c816c3d0b075">
@@ -43,7 +44,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="a877af5a-529f-4262-883f-ce46f28dda0d">
+      id="a877af5a-529f-4262-883f-ce46f28dda0d"
+      targetConnections="934a3e53-a32a-44da-aee1-b924fc795334">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="ae207ec2-9ac8-4e82-bf9b-4c45dc586be3"
@@ -54,8 +56,8 @@
           href="AssignmentRelationship_810bf675-36d9-4881-8edd-91951245d2f7.xml#810bf675-36d9-4881-8edd-91951245d2f7"/>
     </sourceConnections>
     <bounds
-        x="1128"
-        y="303"
+        x="1140"
+        y="382"
         width="157"
         height="75"/>
     <archimateElement
@@ -297,6 +299,15 @@
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_42df0a8f-41e9-4fd4-9598-00630e995c63.xml#42df0a8f-41e9-4fd4-9598-00630e995c63"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="934a3e53-a32a-44da-aee1-b924fc795334"
+          source="c2f4f3be-0f8b-40b3-a106-71106b50cf9e"
+          target="a877af5a-529f-4262-883f-ce46f28dda0d">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_ac382a4d-e225-49bb-b6d4-de216b9a55d1.xml#ac382a4d-e225-49bb-b6d4-de216b9a55d1"/>
       </sourceConnections>
       <bounds
           x="180"
