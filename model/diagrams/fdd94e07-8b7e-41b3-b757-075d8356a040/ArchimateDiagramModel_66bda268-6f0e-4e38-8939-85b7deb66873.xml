@@ -27,8 +27,8 @@
           href="TriggeringRelationship_8e59545f-c23a-47b4-b7fb-66bb20c0c7f7.xml#8e59545f-c23a-47b4-b7fb-66bb20c0c7f7"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="360"
+        x="132"
+        y="456"
         width="133"
         height="55"/>
     <archimateElement
@@ -40,8 +40,8 @@
       id="f15e23ff-ae55-40ec-9574-064b000ecd44"
       targetConnections="902b93ba-d179-476e-a94c-c61528a709e5">
     <bounds
-        x="156"
-        y="492"
+        x="168"
+        y="612"
         width="97"
         height="85"/>
     <archimateElement
